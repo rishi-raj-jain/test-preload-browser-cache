@@ -1,0 +1,10 @@
+{
+  "name": "test-preload-browser-cache",
+  "devDependencies": {
+    "@edgio/cli": "^6.1.7",
+    "@edgio/core": "^6.1.7",
+    "@edgio/devtools": "^6.1.7",
+    "@edgio/prefetch": "^6.1.7",
+    "@edgio/starter": "^6.1.7"
+  }
+}
